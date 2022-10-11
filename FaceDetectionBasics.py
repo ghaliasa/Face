@@ -3,6 +3,7 @@ import mediapipe as mp
 import time
 
 #m=
+#nnn
 cap = cv2.VideoCapture("FaceVideo/1.mp4")
 pTime = 0
 
